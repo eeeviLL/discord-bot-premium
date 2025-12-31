@@ -1,0 +1,8 @@
+json
+
+{
+  "token": "PUNE_TOKENUL_TAU_AICI",
+  "welcomeChannel": "welcome",
+  "autoRole": "Member",
+  "embedColor": "#00ffd5"
+}
